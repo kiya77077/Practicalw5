@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practicalw5</string>
+    <string name="boxone">Box One</string>
+    <string name="boxtwo">Box Two</string>
+    <string name="boxthree">Box Three</string>
+    <string name="boxfour">Box Four</string>
+    <string name="boxfive">Box Five</string>
+</resources>
